@@ -18,7 +18,6 @@ pip install -r requirements.txt
 ### 2. Train
 ```
 bash model_training/train.sh
-
 ```
 
 
