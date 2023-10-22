@@ -1,4 +1,4 @@
-# RandStainNA++
+# ArtiDiffuser
 
 Implementation for the paper: "ArtiDiffuser: A Unified Framework for Artifact Restoration and Synthesis for Pathology Images via Counterfactual Diffusion Model“
 
