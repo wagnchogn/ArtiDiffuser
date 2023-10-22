@@ -1,0 +1,8 @@
+pip install labml-nn
+pip install timm
+conda install mpi4py
+pip install einops
+pip install opencv-python
+pip install scikit-image
+pip install blobfile
+pip install thop
