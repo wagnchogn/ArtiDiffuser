@@ -15,14 +15,14 @@ pip install -r requirements.txt
 
 
 
-## 2. Train
+### 2. Train
 ```
 bash model_training/train.sh
 
 ```
 
 
-## 3. Inference
+### 3. Inference
 
 ```
 bash model_inference/inference.sh
